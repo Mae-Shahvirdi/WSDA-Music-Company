@@ -1,6 +1,6 @@
 /*
- Discrepancy in finances 
- First Step: How many transactions took place between the years 2011 and 2012?
+Discrepancy in finances 
+First Step: How many transactions took place between the years 2011 and 2012?
 */
 
 SELECT  

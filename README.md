@@ -10,8 +10,7 @@ To begin our investigation into the sales discrepancy for WSDA Music, we should 
 
 # Solution
 
-# First Step
-## Achieving high-level understanding
+# First Step: Achieving high-level understanding
 
 ### How many transactions took place between the years 2011 and 2012?
 [167 transactions have taken place during this period.](https://github.com/Mae-Shahvirdi/WSDA-Music-Company/blob/main/1.%20How%20many%20transactions%20took%20place%20between%20the%20years%202011%20and%202012%20.sql)
@@ -20,8 +19,7 @@ To begin our investigation into the sales discrepancy for WSDA Music, we should 
 [1947.97](https://github.com/Mae-Shahvirdi/WSDA-Music-Company/blob/main/2.%20How%20much%20money%20did%20WSDA%20Music%20make%20during%20the%20same%20period%3F)
 
 ##
-# Second Step
-## Gathering insight about customers and employees
+# Second Step: Gathering insight about customers and employees
 ### Identifying customers who made purchases between the years 2011 and 2012 alongside their sales representatives, and total transaction amounts for each customer.
 [By joining tables and applying filters](https://github.com/Mae-Shahvirdi/WSDA-Music-Company/blob/main/3.%20Identifying%20customers%20who%20made%20purchases%20between%20the%20years%202011%20and%202012%20alongside%20their%20sales%20representatives,%20and%20total%20transaction%20amounts%20for%20each%20customer.)
 
@@ -32,8 +30,7 @@ To begin our investigation into the sales discrepancy for WSDA Music, we should 
 [By using Strftime for creating a new column aliased as Year](https://github.com/Mae-Shahvirdi/WSDA-Music-Company/blob/main/5.%20Determining%20the%20average%20transaction%20amount%20for%20each%20year%20that%20WSDA%20Music%20has%20been%20in%20business.sql)
 
 ##
-# Third Step
-## Analyzing to identify employees possibly motivated to commit financial crimes.
+# Third Step: Analyzing to identify employees possibly motivated to commit financial crimes.
 ### Generating a list of employees whose sales transactions exceeded the average transaction amount during 2011 and 2012.
 [By joining tables and filtering based on time and total sale amount](https://github.com/Mae-Shahvirdi/WSDA-Music-Company/blob/main/6.%20Generating%20a%20list%20of%20employees%20whose%20sales%20transactions%20exceeded%20the%20average%20transaction%20amount%20during%202011%20and%202012.sql)
 

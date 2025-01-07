@@ -1,6 +1,7 @@
 /*
 Discrepancy in finances 								 
-What is the average transaction amount for each year that WSDA Music has been in business?*/
+What is the average transaction amount for each year that WSDA Music has been in business?
+*/
 
 SELECT
 	strftime('%Y',InvoiceDate) AS Year,

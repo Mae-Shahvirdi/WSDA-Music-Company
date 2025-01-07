@@ -4,8 +4,8 @@
 The WSDA Music company wants to make a sale plan and needs data-driven insights to make informed decisions.
 However, the WSDA Music management team noticed a discrepancy in the company’s finances, which had accrued between 2011 and 2012. 
 
+##
 # Addressing the discrepancy in finances
-## Considerations
 To begin our investigation into the sales discrepancy for WSDA Music, we should first review the situation to pinpoint relevant information. Since money is missing, we need to consider whether this loss could be due to someone's actions or if other factors are involved. It's important to explore what actions might have contributed to this issue and how we can address it. By examining the activities associated with individuals in the organization, we can gather insights that may help us uncover the reasons behind the missing funds.
 
 ##

@@ -53,7 +53,7 @@ By identifying employees with above-average sales and analyzing their commission
 [Checking the records for the customer named Doeein](https://github.com/Mae-Shahvirdi/WSDA-Music-Company/blob/main/10.%20Reviewing%20the%20customer%20record%20for%20any%20suspicious%20activity.sql)
 
 - **Concluding the primary person of interest based on the findings.**  
-[The employee named](https://github.com/Mae-Shahvirdi/WSDA-Music-Company/blob/main/11.%20Concluding%20the%20primary%20person%20of%20interest%20based%20on%20the%20findings.sql)
+[The employee named "Jane Peacock"](https://github.com/Mae-Shahvirdi/WSDA-Music-Company/blob/main/11.%20Concluding%20the%20primary%20person%20of%20interest%20based%20on%20the%20findings.sql)
 
 ##
 ## Recommendation

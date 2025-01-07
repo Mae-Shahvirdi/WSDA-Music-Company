@@ -8,6 +8,7 @@ However, the WSDA Music management team noticed a discrepancy in the company’s
 ## Considerations
 To begin our investigation into the sales discrepancy for WSDA Music, we should first review the situation to pinpoint relevant information. Since money is missing, we need to consider whether this loss could be due to someone's actions or if other factors are involved. It's important to explore what actions might have contributed to this issue and how we can address it. By examining the activities associated with individuals in the organization, we can gather insights that may help us uncover the reasons behind the missing funds.
 
+##
 # Solution
 
 # First Step: Achieving high-level understanding

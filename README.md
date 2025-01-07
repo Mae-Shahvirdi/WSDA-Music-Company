@@ -35,7 +35,7 @@ To begin our investigation into the sales discrepancy for WSDA Music, we should 
 [By joining tables and filtering based on time and total sale amount](https://github.com/Mae-Shahvirdi/WSDA-Music-Company/blob/main/6.%20Generating%20a%20list%20of%20employees%20whose%20sales%20transactions%20exceeded%20the%20average%20transaction%20amount%20during%202011%20and%202012.sql)
 
 ### Creating a Commission Payout column to reflect each employee’s commission, calculated at 15% of their sales transaction amount.
-(By creating a new column as a place to input the calculations for the commission payout)(https://github.com/Mae-Shahvirdi/WSDA-Music-Company/blob/main/7.%20Creating%20a%20Commission%20Payout%20column%20to%20reflect%20each%20employee%E2%80%99s%20commission,%20calculated%20at%2015%25%20of%20their%20sales%20transaction%20amount.sql)
+[By creating a new column as a place to input the calculations for the commission payout](https://github.com/Mae-Shahvirdi/WSDA-Music-Company/blob/main/7.%20Creating%20a%20Commission%20Payout%20column%20to%20reflect%20each%20employee%E2%80%99s%20commission,%20calculated%20at%2015%25%20of%20their%20sales%20transaction%20amount.sql)
 
 ### Identifying the employee who earned the highest commission.
 [Answer is in the previous Query](https://github.com/Mae-Shahvirdi/WSDA-Music-Company/blob/main/7.%20Creating%20a%20Commission%20Payout%20column%20to%20reflect%20each%20employee%E2%80%99s%20commission,%20calculated%20at%2015%25%20of%20their%20sales%20transaction%20amount.sql)

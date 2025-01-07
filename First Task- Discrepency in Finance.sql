@@ -1,6 +1,7 @@
 /*
 Discrepancy in finances 
-Get a list of employees who exceeded the average transaction amount from sales they generated during 2011 and 2012.*/
+Get a list of employees who exceeded the average transaction amount from sales they generated during 2011 and 2012.
+*/
 
 SELECT
 	e.EmployeeId,

@@ -13,7 +13,7 @@ To begin our investigation into the sales discrepancy for WSDA Music, we should 
 
 # First Step: Achieving high-level understanding
 To understand WSDA Music's financial performance in 2011 and 2012, we will evaluate key metrics related to transaction activity and revenue generation, providing insight into the company's operations during this period.
-- How many transactions took place between the years 2011 and 2012?
+- *How many transactions took place between the years 2011 and 2012?*
 [167 transactions have taken place during this period.](https://github.com/Mae-Shahvirdi/WSDA-Music-Company/blob/main/1.%20How%20many%20transactions%20took%20place%20between%20the%20years%202011%20and%202012%20.sql)
 
 - How much money did WSDA Music make during the same period? 

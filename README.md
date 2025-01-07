@@ -17,19 +17,19 @@ To begin our investigation into the sales discrepancy for WSDA Music, we should 
 
 ### How much money did WSDA Music make during the same period? 
 [1947.97](https://github.com/Mae-Shahvirdi/WSDA-Music-Company/blob/main/2.%20How%20much%20money%20did%20WSDA%20Music%20make%20during%20the%20same%20period%3F)
-##
+
 ##
 ## Second Step: Gathering insight about customers and employees
-### Identifying customers who made purchases between the years 2011 and 2012.
-(Using Join to connect the related tables)
-### Compiling a list of customers, sales representatives, and total transaction amounts for each customer from 2011 to 2012.
-Using Join to connect the related tables
-### Calculating the number of transactions that exceed the average transaction amount during the same time.
-26
-Filtering with time and transaction amount, by using a subquery
-### Determining the average transaction amount for each year that WSDA Music has been in business.
-Using Strftime for creating a new column aliased as  Year
+### Identifying customers who made purchases between the years 2011 and 2012 alongside their sales representatives, and total transaction amounts for each customer.
+[By joining tables and applying filters](https://github.com/Mae-Shahvirdi/WSDA-Music-Company/blob/main/3.%20Identifying%20customers%20who%20made%20purchases%20between%20the%20years%202011%20and%202012%20alongside%20their%20sales%20representatives,%20and%20total%20transaction%20amounts%20for%20each%20customer.)
 
+### Calculating the number of transactions that exceed the average transaction amount during the same time.
+[By filtering and using subqueries](https://github.com/Mae-Shahvirdi/WSDA-Music-Company/blob/main/4.%20Calculating%20the%20number%20of%20transactions%20that%20exceed%20the%20average%20transaction%20amount%20during%20the%20same%20time.sql)
+
+### Determining the average transaction amount for each year that WSDA Music has been in business.
+[By using Strftime for creating a new column aliased as Year](https://github.com/Mae-Shahvirdi/WSDA-Music-Company/blob/main/5.%20Determining%20the%20average%20transaction%20amount%20for%20each%20year%20that%20WSDA%20Music%20has%20been%20in%20business.sql)
+
+##
 ## Third Step: Analyzing to identify employees possibly motivated to commit financial crimes.
 ### Generating a list of employees whose sales transactions exceeded the average transaction amount during 2011 and 2012.
 (Joining tables and filtering based on time and total sale amount)

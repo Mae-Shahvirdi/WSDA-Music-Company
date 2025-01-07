@@ -18,6 +18,7 @@ To begin our investigation into the sales discrepancy for WSDA Music, we should 
 ### How much money did WSDA Music make during the same period? 
 [1947.97](https://github.com/Mae-Shahvirdi/WSDA-Music-Company/blob/main/2.%20How%20much%20money%20did%20WSDA%20Music%20make%20during%20the%20same%20period%3F)
 ##
+##
 ## Second Step: Gathering insight about customers and employees
 ### Identifying customers who made purchases between the years 2011 and 2012.
 (Using Join to connect the related tables)

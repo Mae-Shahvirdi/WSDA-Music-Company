@@ -1,4 +1,4 @@
-# WSDA Music Company: Financial Discrepancy Analysis and Sales Insights
+# WSDA Music Company: Financial Discrepancy
 
 # Introduction:
 The WSDA Music company wants to make a sale plan and needs data-driven insights to make informed decisions.
